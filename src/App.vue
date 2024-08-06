@@ -1,7 +1,7 @@
 <script setup>
 window.g = getShortestPath;
-import Map from "./components/Map.vue";
-import HintMap from "./components/HintMap.vue";
+// import Map from "./components/Map.vue";
+// import HintMap from "./components/HintMap.vue";
 import { stationByName } from "./stations";
 import { targetForGameNumber } from "./utils.ts";
 </script>
